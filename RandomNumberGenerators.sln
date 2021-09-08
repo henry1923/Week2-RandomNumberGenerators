@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumberGenerators", "RandomNumberGenerators\RandomNumberGenerators.csproj", "{80E8E526-D9D3-4041-B166-09C55C3CF891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicDiceGame", "EpicDiceGame\EpicDiceGame.csproj", "{252F3329-A470-4984-91A2-B59283EE893F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E8E526-D9D3-4041-B166-09C55C3CF891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E8E526-D9D3-4041-B166-09C55C3CF891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E8E526-D9D3-4041-B166-09C55C3CF891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E8E526-D9D3-4041-B166-09C55C3CF891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252F3329-A470-4984-91A2-B59283EE893F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252F3329-A470-4984-91A2-B59283EE893F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252F3329-A470-4984-91A2-B59283EE893F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252F3329-A470-4984-91A2-B59283EE893F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78B6C9EA-38AD-44DF-81BE-6EBC0E4FF76F}
+	EndGlobalSection
+EndGlobal
